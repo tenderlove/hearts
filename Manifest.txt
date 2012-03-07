@@ -1,0 +1,8 @@
+.autotest
+CHANGELOG.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+bin/💙💚💛💜
+lib/💙💚💛💜.rb
+test/test_💙💚💛💜.rb
